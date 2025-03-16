@@ -33,7 +33,7 @@ OwlArchSoftware is a repository of custom-built tools and utilities designed to 
 ## Tools
 <table class="osint">  
   <tr><th>Package</th><th>Description</th></tr>  
-  <tr><td><a href="https://leku2020.github.io/OwlArchSoftware/owlsearch">OwlSearch</a></td><td>Malware OSINT identifier and analyser helped by multiple tools like VirusTotal, MalwareBazaar and Shodan</td></tr>  
+  <tr><td><a href="owlsearch">OwlSearch</a></td><td>Malware OSINT identifier and analyser helped by multiple tools like VirusTotal, MalwareBazaar and Shodan</td></tr>  
 </table> 
 
 ---
