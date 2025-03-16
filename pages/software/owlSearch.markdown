@@ -60,4 +60,4 @@ This project is licensed under the MIT License.
 
 ## Contributions
 
-Contributions are welcome! If you'd like to improve the script, open an issue or submit a pull request on [GitHub](https://github.com/Leku2020/OwlArchRepo/tree/main/ownSoftware/OwlSearch).
+Contributions are welcome! If you'd like to improve the script, open an issue or submit a pull request on [GitHub](https://github.com/Leku2020/OwlArchSoftware/tree/main).
