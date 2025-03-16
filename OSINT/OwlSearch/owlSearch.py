@@ -136,7 +136,7 @@ def show_history():
     for entry in history:
         print(f"Timestamp: {entry['timestamp']}")
         print(f"Params: {entry['params']}")
-        print(f"Response: {entry['response']}")
+        pretty_print_json(entry['response'])
         print("-" * 40)
 
 def search_shodan_ips(api_key, ip):
