@@ -1,9 +1,3 @@
----
-layout: home
-title: Index
-permalink: /
----
-
 # OwlArchSoftware  
 **Custom Tools for Malware Analysis & OSINT**  
 
@@ -61,21 +55,3 @@ OwlArchSoftware is a repository of custom-built tools and utilities designed to 
 ---
 
 **OwlArchSoftware** - Empowering Arch Linux with custom tools for digital forensics 🦉🔍
-
-
-<style>  
-.package-table {  
-  width: 100%;  
-  border-collapse: collapse;  
-  margin: 2rem 0;  
-}  
-.package-table th,  
-.package-table td {  
-  border: 1px solid #ddd;  
-  padding: 12px;  
-  text-align: left;  
-}  
-.package-table th {  
-  background-color: #f5f5f5;  
-}  
-</style>  
