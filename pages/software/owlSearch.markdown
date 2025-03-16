@@ -1,5 +1,3 @@
-
-```markdown
 ---
 layout: software
 title: OwlSearch
